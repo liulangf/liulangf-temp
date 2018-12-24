@@ -14,5 +14,7 @@ temp resources
 + [gcc-readings](https://gcc.gnu.org/readings.html)
 + [gcc-archi](https://en.wikibooks.org/wiki/GNU_C_Compiler_Internals/GNU_C_Compiler_Architecture)
 + [Dennis-Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)
++ [stallman](http://www.stallman.org/)
++ [commands](http://linuxcommand.org/)
 
 
