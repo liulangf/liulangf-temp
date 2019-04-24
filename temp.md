@@ -24,3 +24,6 @@ temp resources
 
 
 + [大前端](https://www.jianshu.com/p/062f2619473e)
+
+
++ [taobao](https://2014.jsconfchina.com/slides/herman-taobaoweb/index.html#/69)
